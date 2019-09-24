@@ -1,0 +1,3 @@
+Get the most out of your wide screen monitor with split editing support. Edit files side by side, or edit two locations in the one file. You can edit with as many rows and columns as you wish. Take advantage of multiple monitors by editing with multiple windows, and using multiple splits in each window.
+
+Take a look at the View ▶ Layout menu for split editing options. To open multiple views into the one file, use the File ▶ New View into File menu item.
